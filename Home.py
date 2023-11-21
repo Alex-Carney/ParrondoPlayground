@@ -42,7 +42,7 @@ st.markdown(
                 text-shadow: 2px 2px 4px #000000; 
                 background-color: rgba(0, 0, 0, 0.5); 
                 padding: 5px;'>
-    Built by Alex Carney, Gavin Burns, Turner
+    Built by Alex Carney, Gavin Burns, Turner Mullarkey
     </h4>
     """,
     unsafe_allow_html=True
